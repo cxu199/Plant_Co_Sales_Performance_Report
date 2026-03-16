@@ -29,7 +29,7 @@ This interactive Power BI dashboard provides a comprehensive view of Plant Co’
 
 ## KPI Performance Overview
 
-![image_alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/KPI%20Cards.PNG)
+![image alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/KPI%20Cards.PNG)
 
 **Purpose**
 
@@ -54,7 +54,7 @@ Executives can immediately assess overall business performance and detect whethe
 
 ## Country Performance Analysis
 
-![image_alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Bottom%2010%20countries%20YTD%20vs%20PYTD.PNG)
+![image alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Bottom%2010%20countries%20YTD%20vs%20PYTD.PNG)
 
 **Visual Type:** Tree Map
 
@@ -74,10 +74,10 @@ Management can quickly identify underperforming regions and evaluate whether cha
 
 ## Growth Driver Analysis
 
-![image_alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Waterfall%20month.PNG)
-![image_alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Waterfall%20month%20-%20country.PNG)
-![image_alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Waterfall%20month%20-%20country%20-%20Product%20Type.PNG)
-![image_alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Waterfall%20month%20-%20country%20-%20Product%20Type%20-%20%20Product%20Name.PNG)
+![image alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Waterfall%20month.PNG)
+![image alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Waterfall%20month%20-%20country.PNG)
+![image alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Waterfall%20month%20-%20country%20-%20Product%20Type.PNG)
+![image alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Waterfall%20month%20-%20country%20-%20Product%20Type%20-%20%20Product%20Name.PNG)
 
 
 **Visual Type:** Waterfall Chart
@@ -105,7 +105,7 @@ Analysts can quickly identify the months, markets, or products responsible for p
 
 ## Product Category Performance
 
-![image_alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/stacked%20bar%20and%20line%20chart%20for%20product%20type%20YTD%20vs%20PYTD.PNG)
+![image alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/stacked%20bar%20and%20line%20chart%20for%20product%20type%20YTD%20vs%20PYTD.PNG)
 
 **Visual Type:** Stacked Bar + Line Chart
 
@@ -128,7 +128,7 @@ Management can detect product trends and identify categories that contribute mos
 
 ## Customer Profitability Segmentation
 
-![image_alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Scatter%20plot%20for%20accounts%20GP%25%20vs%20Selected%20Measure.PNG)
+![image alt](https://github.com/cxu199/PlantCo_Sales_Performance_Report/blob/9c5ecfd4efad46b785d00f1be92853514fa75be7/Scatter%20plot%20for%20accounts%20GP%25%20vs%20Selected%20Measure.PNG)
 
 **Visual Type:** Scatter Plot
 
